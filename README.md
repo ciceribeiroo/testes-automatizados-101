@@ -67,5 +67,5 @@ Vídeoaula utilizada para iniciar o código: https://youtu.be/WMeAbgN-v1M
 
 Para baixar o programa acesse o [link](https://github.com/appium/appium-desktop/releases/tag/v1.20.2).
 
-Acompanhe [essa]https://github.com/clarabez/appium) documentação (dica! o caminho do ANDROID_HOME, o sdk, é algo semelhante a C:\Users\seu-usuario\AppData\Local\Android\Sdk)
+Acompanhe [essa](https://github.com/clarabez/appium) documentação (dica! o caminho do ANDROID_HOME, o sdk, é algo semelhante a C:\Users\[Nome do seu usuário padrão]\AppData\Local\Android\Sdk)
 
